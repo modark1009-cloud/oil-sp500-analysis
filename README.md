@@ -30,4 +30,4 @@ These results indicate a weak positive relationship between oil prices and the S
 ![Scatter Plot with Regression Line](chart2_scatter.png)
 
 ## Limitations
-This project demonstrates correlation rather than causation. Other economic factors, such as interest rates, inflation, and global events, can also influence stock market performance.
+This project demonstrates correlation rather than causation, so it cannot prove that changes in oil prices cause changes in the S&P 500. Other factors, such as interest rates, inflation, economic conditions, and global events, may also influence stock market performance. The scatter plot shows a wide spread of data points, which is expected for daily financial data and reflects the low R² value (0.0211), indicating that oil prices explain only a small proportion of the variation in S&P 500 returns.
